@@ -5,4 +5,4 @@ Protein–protein interactions (PPIs) are crucial for a wide range of biological
 outputs into protein-level embeddings, followed by a lightweight classifier for PPI prediction. Extensive experiments demonstrate that BiCrossPPI consistently outperforms all State of the Art baselines while maintaining a good balance between training efficiency and prediction performance.
 
 # Performance
-[Performance against SotA baselines](/figures/BaselinePerformance.jpeg)
+[Performance against SotA baselines](/figures/BaselinePerformance.jpg)
